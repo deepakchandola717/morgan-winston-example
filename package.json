@@ -1,0 +1,17 @@
+{
+  "name": "morgan-winston-example",
+  "version": "1.0.0",
+  "description": "example usage of morgan and winston to log in nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "morgan",
+    "winston",
+    "log",
+    "nodejs"
+  ],
+  "author": "deepak chandola",
+  "license": "ISC"
+}
